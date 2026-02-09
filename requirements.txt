@@ -1,0 +1,2 @@
+# Requires: phantom-delay
+# (Not available on PyPI)
